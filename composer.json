@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "easeappphp/highper": "1.0.1"
+        "easeappphp/highper": "1.0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0",
